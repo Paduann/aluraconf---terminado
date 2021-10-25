@@ -1,0 +1,47 @@
+.secao-formulario {
+    padding: 18px;
+}
+
+.titulo-formulario {
+    text-align: center;
+    margin: 16px;
+    text-transform: uppercase;
+    color: #EF7247;
+    font-size: 32px;
+}
+
+.parte-nome {
+    margin-left: 1.5em;
+    margin-bottom: 13px;
+}
+
+.parte-email {
+    margin-left: 1.5em;
+    margin-bottom: 13px;
+}
+
+.label-formulario {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input-formulario {
+    width: 95%;
+    border-radius: 5px;
+    height: 25px;
+    margin-top: 5px;
+    box-shadow: 0 0 1em #99CCCD;
+}
+
+.div-botao {
+    text-align: center;
+}
+
+.botao-formulario {
+    padding: 1em;
+    width: 271px;
+    background-color: #48A3A6;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
